@@ -100,4 +100,4 @@ Instruksi teknis khusus jika Anda memiliki otorisasi untuk memperbarui nomenklat
 5. **Ubah Teks:** Ketuk dua kali (double click) pada area teks nama/jabatan, lalu input data baru.
 6. **Tambah Posisi:** Salin (copy) unit kotak yang relevan, tempel (paste), dan sejajarkan mengikuti garis komando rasional.
 
-> **Catatan Kritis:** Perubahan visual pada Canva tersimpan otomatis, namun pembaruan ke dalam antarmuka aplikasi utama mensyaratkan penyesuaian kode sumber HTML/JS oleh pengembang.
+> **Catatan:** Perubahan visual pada Canva tersimpan otomatis, namun pembaruan ke dalam antarmuka aplikasi utama mensyaratkan penyesuaian kode sumber HTML/JS oleh pengembang.
