@@ -1,6 +1,6 @@
 # 📖 BUKU PANDUAN PENGGUNA
 
-## Aplikasi Interaktif Struktur Organisasi, Tugas, Fungsi, dan Identitas Pejabat (SOTFI)
+## Aplikasi Interaktif Struktur Organisasi, Tugas, Fungsi, dan Nama Pejabat
 ### Bagian Pemerintahan Sekretariat Kota Administrasi Jakarta Barat
 
 **Disusun Oleh:** Elang Bani Ibrahim Panjiwinata
@@ -9,7 +9,7 @@
 
 ## 📌 Pengantar
 
-Selamat datang di repositori Buku Panduan Aplikasi SOTFI. Dokumen ini merangkum instruksi teknis untuk mengakses, membaca, dan mengelola bagan struktur organisasi serta identitas pejabat secara digital dan real-time. Aplikasi ini dikembangkan sebagai inovasi tata kelola untuk menyederhanakan pemahaman alur birokrasi dan peran operasional setiap pejabat di instansi terkait.
+Selamat datang di repositori Buku Panduan Aplikasi Interaktif. Dokumen ini merangkum instruksi teknis untuk mengakses, membaca, dan mengelola bagan struktur organisasi serta nama pejabat secara digital dan real-time. Aplikasi ini dikembangkan sebagai inovasi tata kelola untuk menyederhanakan pemahaman alur birokrasi dan peran operasional setiap pejabat di instansi terkait.
 
 ---
 
@@ -61,7 +61,7 @@ Setelah antarmuka dimuat, Anda langsung dihadapkan pada bagan interaktif:
 
 ## 4. Melihat Rincian Tugas Pokok dan Fungsi (Tupoksi)
 
-Setiap kartu identitas pejabat mengunci informasi spesifik mengenai rincian tugas dan peran utamanya. Cara mengaksesnya:
+Setiap kartu nama pejabat mengunci informasi spesifik mengenai rincian tugas dan peran utamanya. Cara mengaksesnya:
 
 1. Temukan kartu pejabat yang menjadi target pencarian informasi Anda.
 2. Klik **Ikon "i" (Informasi)** yang terletak di sudut kanan atas kartu tersebut.
@@ -85,7 +85,7 @@ Terdapat 4 (empat) modul akses utama:
 | 🌓 | Mode Tampilan | Mengubah skema warna antarmuka dari Mode Gelap (Dark Mode) ke Mode Terang (Light Mode) atau sebaliknya. |
 | 📘 | Buku Panduan | Mengarahkan pengguna ke dokumen panduan operasional (User Manual). |
 | 📑 | Master Design | Membuka kerangka grafis mentah di platform Canva (membutuhkan login). |
-| 📜 | Landasan Kebijakan | Membuka dokumen legal (Pergub No.57 Tahun 2022) yang menjadi dasar hukum pembentukan SOTFI. |
+| 📜 | Landasan Kebijakan | Membuka dokumen legal (Pergub No.57 Tahun 2022) yang menjadi dasar hukum pembentukan aplikasi interaktif. |
 
 ---
 
